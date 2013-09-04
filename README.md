@@ -19,11 +19,13 @@ Tutorial
 --------
 Download files [TestBase.cs] (https://github.com/dzhariy/mstest-rows/raw/master/TestBase.cs) and [TestRows.cs] (https://github.com/dzhariy/mstest-rows/raw/master/TestRows.cs) and include them into your test project.  
 All logic is implemented in TestBase.cs, so you may change it anytime.  
-Now create your own test class, and subclass one of the classes that leave in the namespace “MsTestRows.Rows.*”.  
+Now create your own test class, and subclass one of the classes that live in the namespace “MsTestRows.Rows.*”.  
  
-In your derived class, you have to implement 2 abstract methods: 
+In your derived class, you have to implement 2 abstract methods:  
+
 **GetNextDataRow(int rowNumber)** – returns a data row  
-**TestMethod – (T dataRow, int rowNumber)** – your actual data-driven test implementation which will be called for each data row. 
+
+**TestMethod – (T dataRow, int rowNumber)** – your actual data-driven test implementation which will be called for each data row.  
  
 In the example below, the Ha_ha_ha_Test subclasses TestRows_42 and has 42 methods inside:
 ```
