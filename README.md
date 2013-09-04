@@ -5,7 +5,7 @@ Insane MS Tests Rows implementation for Data-Driven tests with generated code an
 
 Problem 
 --------
-Comparing to NUnit or MbUnit, Visual Studio Test Framework (aka MS-Test) has limited possibilities to re-run data-driven tests. Basically, you can create a data-driven test, but MS-Test will treat all the data rows as single test. That means if at least 1 row from 100 fails – all the entire test will be reported as “Failed”.   
+Comparing to NUnit or MbUnit, Visual Studio Test Framework (aka MS-Test) has limited possibilities to re-run data-driven tests. Basically, you can create a data-driven test, but MS-Test will consider all the data rows as single test. That means if at least 1 row from 100 fails – all the entire test will be reported as “Failed”.   
 That might be fine for fast unit test – you may fix the issue and re-run all the rows in a few seconds...  
 But, when we are talking about much slower User Acceptance Tests based on Selenium WebDriver – it might take a few hours to re-run all the rows.  
 And there is no possibility just to re-run an individual one. Such behavior is just painful.  
