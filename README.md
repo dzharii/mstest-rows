@@ -89,5 +89,6 @@ I do not accept patches and pull requests for this project.
 Just grab the code and do whatever you want. :D
 
 <br />
-<img src="http://hitwebcounter.com/counter/counter.php?page=5067518&style=0024&nbdigits=5&type=page&initCount=0" border="0" >
+
+<img src="http://bit.ly/14kXWbf" border="0" >
 
