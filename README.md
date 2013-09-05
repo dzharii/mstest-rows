@@ -53,7 +53,7 @@ I’ve never been so productive!
 And... yes, the code generator is written in Perl.  
 Just because it is the best language to solve insane problems!  
 ``` perl
-    "use Perl” or die;
+    "use Perl" or die;
 ```
 
 License: Unlicense
