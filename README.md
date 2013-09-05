@@ -88,4 +88,4 @@ Contribution
 I do not accept patches and pull requests for this project.  
 Just grab the code and do whatever you want. :D  
    
-![Counter](https://http://www.e-zeeinternet.com/count.php?page=997378&style=big_block&nbdigits=5)
+![Counter](http://www.e-zeeinternet.com/count.php?page=997378&style=big_block&nbdigits=5)
