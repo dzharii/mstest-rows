@@ -50,6 +50,12 @@ In the example below, the Ha_ha_ha_Test subclasses TestRows_42 and has 42 method
 The TestRows.cs  file size is 30 KLOC which I have generated in less than one second.  
 I’ve never been so productive! 
 
+And... yes, the code generator is written in Perl.  
+Just because it is the best language to solve insane problems!
+``` perl
+    "use Perl” or die;
+```
+
 License: Unlicense
 --------
 This is free and unencumbered software released into the public domain.
