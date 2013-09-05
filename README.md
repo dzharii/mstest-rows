@@ -28,7 +28,7 @@ In your derived class, you have to implement 2 abstract methods:
 **TestMethod – (T dataRow, int rowNumber)** – your actual data-driven test implementation which will be called for each data row.  
  
 In the example below, the Ha_ha_ha_Test subclasses TestRows_42 and has 42 methods inside:
-```
+``` csharp
 
     [TestClass]
     public class Ha_ha_ha_Test: MsTestRows.Rows.TestRows_42<string>
