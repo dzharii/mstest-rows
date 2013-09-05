@@ -7,6 +7,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_01<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 01;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -18,6 +20,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_02<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 02;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -35,6 +39,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_03<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 03;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -58,6 +64,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_04<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 04;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -87,6 +95,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_05<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 05;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -122,6 +132,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_06<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 06;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -163,6 +175,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_07<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 07;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -210,6 +224,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_08<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 08;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -263,6 +279,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_09<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 09;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -322,6 +340,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_10<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 10;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -387,6 +407,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_11<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 11;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -458,6 +480,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_12<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 12;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -535,6 +559,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_13<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 13;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -618,6 +644,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_14<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 14;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -707,6 +735,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_15<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 15;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -802,6 +832,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_16<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 16;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -903,6 +935,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_17<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 17;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -1010,6 +1044,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_18<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 18;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -1123,6 +1159,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_19<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 19;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -1242,6 +1280,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_20<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 20;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -1367,6 +1407,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_21<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 21;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -1498,6 +1540,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_22<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 22;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -1635,6 +1679,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_23<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 23;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -1778,6 +1824,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_24<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 24;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -1927,6 +1975,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_25<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 25;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -2082,6 +2132,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_26<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 26;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -2243,6 +2295,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_27<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 27;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -2410,6 +2464,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_28<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 28;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -2583,6 +2639,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_29<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 29;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -2762,6 +2820,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_30<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 30;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -2947,6 +3007,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_31<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 31;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -3138,6 +3200,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_32<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 32;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -3335,6 +3399,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_33<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 33;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -3538,6 +3604,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_34<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 34;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -3747,6 +3815,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_35<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 35;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -3962,6 +4032,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_36<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 36;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -4183,6 +4255,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_37<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 37;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -4410,6 +4484,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_38<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 38;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -4643,6 +4719,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_39<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 39;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -4882,6 +4960,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_40<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 40;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -5127,6 +5207,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_41<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 41;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -5378,6 +5460,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_42<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 42;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -5635,6 +5719,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_43<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 43;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -5898,6 +5984,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_44<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 44;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -6167,6 +6255,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_45<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 45;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -6442,6 +6532,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_46<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 46;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -6723,6 +6815,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_47<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 47;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -7010,6 +7104,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_48<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 48;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -7303,6 +7399,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_49<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 49;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -7602,6 +7700,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_50<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 50;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -7907,6 +8007,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_51<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 51;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -8218,6 +8320,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_52<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 52;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -8535,6 +8639,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_53<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 53;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -8858,6 +8964,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_54<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 54;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -9187,6 +9295,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_55<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 55;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -9522,6 +9632,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_56<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 56;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -9863,6 +9975,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_57<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 57;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -10210,6 +10324,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_58<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 58;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -10563,6 +10679,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_59<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 59;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -10922,6 +11040,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_60<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 60;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -11287,6 +11407,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_61<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 61;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -11658,6 +11780,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_62<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 62;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -12035,6 +12159,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_63<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 63;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -12418,6 +12544,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_64<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 64;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -12807,6 +12935,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_65<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 65;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -13202,6 +13332,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_66<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 66;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -13603,6 +13735,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_67<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 67;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -14010,6 +14144,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_68<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 68;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -14423,6 +14559,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_69<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 69;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -14842,6 +14980,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_70<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 70;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -15267,6 +15407,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_71<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 71;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -15698,6 +15840,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_72<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 72;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -16135,6 +16279,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_73<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 73;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -16578,6 +16724,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_74<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 74;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -17027,6 +17175,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_75<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 75;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -17482,6 +17632,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_76<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 76;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -17943,6 +18095,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_77<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 77;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -18410,6 +18564,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_78<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 78;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -18883,6 +19039,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_79<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 79;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -19362,6 +19520,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_80<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 80;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -19847,6 +20007,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_81<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 81;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -20338,6 +20500,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_82<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 82;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -20835,6 +20999,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_83<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 83;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -21338,6 +21504,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_84<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 84;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -21847,6 +22015,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_85<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 85;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -22362,6 +22532,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_86<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 86;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -22883,6 +23055,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_87<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 87;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -23410,6 +23584,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_88<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 88;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -23943,6 +24119,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_89<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 89;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -24482,6 +24660,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_90<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 90;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -25027,6 +25207,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_91<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 91;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -25578,6 +25760,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_92<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 92;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -26135,6 +26319,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_93<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 93;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -26698,6 +26884,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_94<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 94;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -27267,6 +27455,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_95<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 95;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -27842,6 +28032,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_96<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 96;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -28423,6 +28615,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_97<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 97;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -29010,6 +29204,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_98<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 98;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -29603,6 +29799,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_99<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 99;
+
         [TestMethod]
         public void TestRow_01()
         {
@@ -30202,6 +30400,8 @@ namespace MsTestRows.Rows
     [TestClass]
     public abstract class TestRows_100<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = 100;
+
         [TestMethod]
         public void TestRow_01()
         {

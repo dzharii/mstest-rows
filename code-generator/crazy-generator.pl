@@ -18,6 +18,8 @@ my $test_class_template =<<'EOL';
     [TestClass]
     public abstract class TestRows_%%= NUMBER OF TESTS =%%<DATAROW> : TestBase<DATAROW>
     {
+        const int TOTAL_ROWS = %%= NUMBER OF TESTS =%%;
+
 %%= PUT TESTS HERE =%%
     }
 EOL

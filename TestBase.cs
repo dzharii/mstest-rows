@@ -10,11 +10,6 @@ namespace MsTestRows
 
         public abstract void TestMethod(DATAROW dataRow, int rowNumber);
 
-        public virtual void ThrowNotEnoughDataException(int rowNumber)
-        {
-            throw new Exception(String.Format("Not enough data ( Row: {0}", rowNumber));
-        }
-
         public virtual void TestRowImplementation(int rowNumber)
         {
             DATAROW data = GetNextDataRow(rowNumber);
