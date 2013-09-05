@@ -86,4 +86,6 @@ For more information, please refer to <http://unlicense.org/>
 Contribution
 --------
 I do not accept patches and pull requests for this project.  
-Just grab the code and do whatever you want. :D
+Just grab the code and do whatever you want. :D  
+   
+![Counter](https://http://www.e-zeeinternet.com/count.php?page=997378&style=big_block&nbdigits=5)
