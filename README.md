@@ -87,8 +87,3 @@ Contribution
 --------
 I do not accept patches and pull requests for this project.  
 Just grab the code and do whatever you want. :D
-
-<br />
-
-<img src="http://bit.ly/14kXWbf" border="0" >
-
