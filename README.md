@@ -88,4 +88,5 @@ Contribution
 I do not accept patches and pull requests for this project.  
 Just grab the code and do whatever you want. :D  
    
-
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dzhariy/mstest-rows/trend.png)](https://bitdeli.com/free
+"Bitdeli Badge")
