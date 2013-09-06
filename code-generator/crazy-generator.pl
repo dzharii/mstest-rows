@@ -1,7 +1,8 @@
 #!perl
 use strict; use warnings;
-
-
+"use Perl" or die;
+#               ()
+# Matryoshka ('    ')
 my $namespace_template = <<'EOL';
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,8 @@ namespace MsTestRows.Rows
 }
 EOL
 
-
+#                ()
+# Matryoshka ( ('  ') )
 my $test_class_template =<<'EOL';
     [TestClass]
     public abstract class TestRows_%%= NUMBER OF TESTS =%%<DATAROW> : TestBase<DATAROW>
@@ -23,13 +25,13 @@ my $test_class_template =<<'EOL';
 %%= PUT TESTS HERE =%%
     }
 EOL
-
-
+#                 *
+# Matryoshka ( ( (") ) )
 my $test_method_template =<<'EOL';
         [TestMethod]
         public void TestRow_%%= TEST NUMBER =%%()
         {
-            TestRowImplementation(%%= TEST NUMBER =%%);
+            TestRowImplementation(%%= ZERO BASED ROW INDEX =%%);
         }
 EOL
 
@@ -44,6 +46,7 @@ for my $rows (1..100) {
         my $method_template = $test_method_template;
         
         $method_template =~ s/%%= TEST NUMBER =%%/sprintf("%02d", $test_case)/gse;
+        $method_template =~ s/%%= ZERO BASED ROW INDEX =%%/sprintf("%02d", $test_case - 1)/gse;
         push @generated_methods, $method_template;
     }
     
